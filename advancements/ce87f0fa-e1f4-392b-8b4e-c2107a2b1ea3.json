@@ -1,0 +1,19 @@
+{
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2020-04-30 00:55:14 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-04-30 01:00:24 -0300",
+      "minecraft:taiga": "2020-04-30 01:15:44 -0300",
+      "minecraft:river": "2020-04-30 00:56:50 -0300",
+      "minecraft:swamp": "2020-04-30 01:16:36 -0300",
+      "minecraft:plains": "2020-04-30 00:50:22 -0300"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}
